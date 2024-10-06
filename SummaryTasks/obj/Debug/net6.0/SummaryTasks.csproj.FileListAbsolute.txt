@@ -1,0 +1,14 @@
+D:\VS_Programs\SummaryTasks\SummaryTasks\bin\Debug\net6.0\SummaryTasks.exe
+D:\VS_Programs\SummaryTasks\SummaryTasks\bin\Debug\net6.0\SummaryTasks.deps.json
+D:\VS_Programs\SummaryTasks\SummaryTasks\bin\Debug\net6.0\SummaryTasks.runtimeconfig.json
+D:\VS_Programs\SummaryTasks\SummaryTasks\bin\Debug\net6.0\SummaryTasks.dll
+D:\VS_Programs\SummaryTasks\SummaryTasks\bin\Debug\net6.0\SummaryTasks.pdb
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.AssemblyInfoInputs.cache
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.AssemblyInfo.cs
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.csproj.CoreCompileInputs.cache
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.dll
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\refint\SummaryTasks.dll
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.pdb
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\SummaryTasks.genruntimeconfig.cache
+D:\VS_Programs\SummaryTasks\SummaryTasks\obj\Debug\net6.0\ref\SummaryTasks.dll

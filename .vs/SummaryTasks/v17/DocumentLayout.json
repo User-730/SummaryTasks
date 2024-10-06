@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_Programs\\SummaryTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|d:\\vs_programs\\summarytasks\\summarytasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|solutionrelative:summarytasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|d:\\vs_programs\\summarytasks\\summarytasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|solutionrelative:summarytasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|d:\\vs_programs\\summarytasks\\summarytasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|solutionrelative:summarytasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|d:\\vs_programs\\summarytasks\\summarytasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|solutionrelative:summarytasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|d:\\vs_programs\\summarytasks\\summarytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAE41B-E1CC-4B6F-BBEE-94F6F8DB0161}|SummaryTasks\\SummaryTasks.csproj|solutionrelative:summarytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task4.cs",
+              "RelativeDocumentMoniker": "SummaryTasks\\Task4.cs",
+              "ToolTip": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task4.cs",
+              "RelativeToolTip": "SummaryTasks\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:21:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task3.cs",
+              "RelativeDocumentMoniker": "SummaryTasks\\Task3.cs",
+              "ToolTip": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task3.cs",
+              "RelativeToolTip": "SummaryTasks\\Task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:53:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task2.cs",
+              "RelativeDocumentMoniker": "SummaryTasks\\Task2.cs",
+              "ToolTip": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task2.cs",
+              "RelativeToolTip": "SummaryTasks\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:29:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task1.cs",
+              "RelativeDocumentMoniker": "SummaryTasks\\Task1.cs",
+              "ToolTip": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Task1.cs",
+              "RelativeToolTip": "SummaryTasks\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:10:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Program.cs",
+              "RelativeDocumentMoniker": "SummaryTasks\\Program.cs",
+              "ToolTip": "D:\\VS_Programs\\SummaryTasks\\SummaryTasks\\Program.cs",
+              "RelativeToolTip": "SummaryTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:12:50.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
